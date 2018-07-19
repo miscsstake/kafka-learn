@@ -3,7 +3,7 @@
 * [简介](intro.md)
 * [快速开始](quickStart.md)
 * [用户示例](useCase.md)
-* [文档]
+* 文档
 	* [streams](documentation/kafkaStreams.md)
 	* [connect](documentation/kafkaConnect.md)
 * [性能](performance.md)
