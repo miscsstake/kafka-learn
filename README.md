@@ -21,3 +21,13 @@
 可以打算将翻译结果从github上同步到gitbook上，但gitbook访问太慢，有时候登录了好多遍也没登录不上，大家有可以推荐的方便的文档托管分享工具可以推荐一下。
 
 后续会不定时推出kafka系列文章，希望大家能够共同学习，共同提高！！
+
+# Summary
+* [前言](README.md)
+* [简介](intro.md)
+* [快速开始](quickStart.md)
+* [用户示例](useCase.md)
+* 文档
+	* [streams](documentation/kafkaStreams.md)
+	* [connect](documentation/kafkaConnect.md)
+* [性能](performance.md)
